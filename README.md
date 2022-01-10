@@ -1,8 +1,6 @@
 ### Hi there 👋, `Shreyas Gangurde` this side, 
 
-I am a conputer Engineering student studying in my 3rd year.
-
-I am passionate about Web Development and especially the JavaScript Universe.
+I am a Web Developer who loves ReactJS, JavaScript & TypeScript.
 
 ### BookEx – Online Book Lending/Selling Platform - [GitHub](https://github.com/morya-111), [Web Deploy](https://bookex.netlify.app/)
 - Worked On Front-end ( ReactJS ) And Backend (NodeJS/Express) written in TypeScript with 2 more developers.
