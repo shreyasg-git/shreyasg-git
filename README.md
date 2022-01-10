@@ -4,19 +4,17 @@ I am a conputer Engineering student studying in my 3rd year.
 
 I am passionate about Web Development and especially the JavaScript Universe.
 
-#### BookEx – Online Book Lending/Selling Platform -
-[GitHub](https://github.com/morya-111) [Web Deploy](https://bookex.netlify.app/)
+### BookEx – Online Book Lending/Selling Platform - [GitHub](https://github.com/morya-111), [Web Deploy](https://bookex.netlify.app/)
 - Worked On Front-end ( ReactJS ) And Backend (NodeJS/Express) written in TypeScript with 2 more developers.
 - Learned how Authentication / Authorization works.
 - Learned how to use React Hooks and State Management using Context API effectively.
-#### Pegs Game – A Peg Solitaire game - 
-[GitHub]() [Web Deploy]()
+### Pegs Game – A Peg Solitaire game - [GitHub](https://github.com/shreyasg-git/Pegs-Game), [Web Deploy](https://pegs-game.netlify.app/)
 - A web-based implementation of Peg Solitaire – Single/Multiplayer
 - Learned how to optimize component re-renders in ReactJS.
-#### Educational Site – (Ongoing project) (not public yet) -
+### Educational Site – (Ongoing project) (not public yet) -
 - Education website for pre-engineering examinations like JEE and JEE Advanced.
 - Backend Development with NodeJS and leading the project with 2 more developers.
-### Path Finding Visualizer in Unity –
+### Path Finding Visualizer in Unity – [GitHub](https://github.com/shreyasg-git/PathFinding-Visualizer), [Web Deploy](https://atharva-bhange.github.io/oopcg-miniproject/Build/), [YouTube](https://youtu.be/PxDGMxQFuQ8)
 - Learned and implemented the concepts of pathfinding algorithms like BFS, DFS, Dijkstra’s algorithm using C#/Unity.
 - Communicate and contribute remotely with one other developer.
 <!--
