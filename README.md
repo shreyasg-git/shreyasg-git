@@ -3,7 +3,8 @@
 I am a Web Developer who loves ReactJS, JavaScript & TypeScript.
 
 🔭 I’m currently working at Sage  
-🌱 I’m currently building my own personal blog - [Source Code Scout](https://github.com/Source-Code-Scout)  
+🌱 I’m currently building my own tech blog - [Source Code Scout](https://sourcecodescout.vercel.app/)  
+
 💬 Ask me about React and React Native  
 ⚡ Fun fact : I love Formula1. Ferrari for the win !  
 
